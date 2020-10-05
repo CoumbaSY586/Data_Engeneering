@@ -1,0 +1,6 @@
+{
+      "format": "csv",
+      "outputDir": "C:\\Users\\Coumbiss\\Desktop\\MSD2020\\src\\Data\\output\\csv",
+      "saveMode": "o",
+      "sep" : ","
+}

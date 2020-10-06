@@ -1,7 +1,7 @@
 ## Data_Engeneering
 
 ### TEST
-Veuillez prendre chacune des lignes de code ci-dessous et le coller dans MsdBatchMain
+Veuillez copier chacune des lignes de code ci-dessous et le coller dans MsdBatchMain
 en effectuant la procédure suivante: MsdBatchMain => Edit Configurations => Program arguments
 
 #### lire json parser en xml
